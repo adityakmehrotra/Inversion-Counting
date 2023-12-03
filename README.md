@@ -13,3 +13,5 @@ The input will start with an positive integer, giving the number of instances th
 5 4 3 2 1<br>
 4<br>
 1 5 9 8<br>
+
+### Sample Output
