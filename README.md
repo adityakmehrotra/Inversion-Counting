@@ -22,3 +22,4 @@ The input will start with an positive integer, giving the number of instances th
 The sample input has two instances. The first instance has 5 elements and the second has 4. For eachinstance, your program should output the number of inversions on a separate line.
 
 ### Time Complexity
+The time complexity of the optimal inversion counting problem for 1 array is **O(n * log(n))**.
