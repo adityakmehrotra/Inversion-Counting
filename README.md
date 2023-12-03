@@ -20,3 +20,5 @@ The input will start with an positive integer, giving the number of instances th
 
 ### Sample Input and Output Description
 The sample input has two instances. The first instance has 5 elements and the second has 4. For eachinstance, your program should output the number of inversions on a separate line.
+
+### Time Complexity
