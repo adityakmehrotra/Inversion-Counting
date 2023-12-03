@@ -6,3 +6,10 @@ Counting the number of inversions in an array.
 
 ### Problem Description
 The input will start with an positive integer, giving the number of instances that follow. For each instance, there will be a positive integer, giving the number of elements in the list.
+
+### Sample Input
+2<br>
+5<br>
+5 4 3 2 1<br>
+4<br>
+1 5 9 8<br>
