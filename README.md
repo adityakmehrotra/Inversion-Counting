@@ -67,6 +67,9 @@ Input should be read in from stdin. The first line will be the number of instanc
 ### Sample Input and Output Description
 
 
+### Time Complexity
+The time complexity of the optimal inversion counting problem for 2 arrays is **O(n * log(n))**.
+
 ### Run the Code
 
 
