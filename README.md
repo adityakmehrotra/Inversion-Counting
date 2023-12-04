@@ -23,3 +23,6 @@ The sample input has two instances. The first instance has 5 elements and the se
 
 ### Time Complexity
 The time complexity of the optimal inversion counting problem for 1 array is **O(n * log(n))**.
+
+## Inversion Counting (2 Arrays) Problem
+
