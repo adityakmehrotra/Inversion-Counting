@@ -37,6 +37,33 @@ Input should be read in from stdin. The first line will be the number of instanc
 
 <img width="444" alt="Screenshot 2023-12-04 at 11 32 06 AM" src="https://github.com/adityakmehrotra/Inversion-Counting/assets/24847438/79a2ab06-1ab4-4cda-9dda-c79fa063e603">
 
+### Sample Input
+2<br>
+4<br>
+1<br>
+10<br>
+8<br>
+6<br>
+6<br>
+2<br>
+5<br>
+1<br>
+5<br>
+9<br>
+21<br>
+1<br>
+5<br>
+18<br>
+2<br>
+4<br>
+6<br>
+10<br>
+1
+
+### Sample Output
+4<br>
+7
+
 
 ### Problem Constraints
 - 1 ≤ n ≤ 106
