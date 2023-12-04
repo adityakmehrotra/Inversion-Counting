@@ -29,3 +29,4 @@ The time complexity of the optimal inversion counting problem for 1 array is **O
 
 ## Inversion Counting (2 Arrays) Problem
 
+### Problem Description
