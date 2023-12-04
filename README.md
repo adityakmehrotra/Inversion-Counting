@@ -30,3 +30,14 @@ The time complexity of the optimal inversion counting problem for 1 array is **O
 ## Inversion Counting (2 Arrays) Problem
 
 ### Problem Description
+Suppose you are given two sets of n points, one set {p1, p2, . . . , pn} on the line y = 0 and the other
+set {q1, q2, . . . , qn} on the line y = 1. Create a set of n line segments by connecting each point pi to
+the corresponding point qi. Your goal is to develop an algorithm to determine how many pairs of these
+line segments intersect. Your algorithm should take the 2n points as input, and return the number of
+intersections. Using divide-and-conquer, your code needs to run in O(n log n) time.
+Hint: How does this problem relate to counting inversions in a list?
+Input should be read in from stdin. The first line will be the number of instances. For each instance,
+the first line will contain the number of pairs of points (n). The next n lines each contain the location x
+of a point qi on the top line. Followed by the final n lines of the instance each containing the location x
+of the corresponding point pi on the bottom line. For the example shown in the figure below, the input is properly
+formatted in the first test case below.
