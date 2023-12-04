@@ -41,3 +41,5 @@ the first line will contain the number of pairs of points (n). The next n lines 
 of a point qi on the top line. Followed by the final n lines of the instance each containing the location x
 of the corresponding point pi on the bottom line. For the example shown in the figure below, the input is properly
 formatted in the first test case below.
+<img width="444" alt="Screenshot 2023-12-04 at 11 32 06 AM" src="https://github.com/adityakmehrotra/Inversion-Counting/assets/24847438/79a2ab06-1ab4-4cda-9dda-c79fa063e603">
+
