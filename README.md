@@ -19,7 +19,7 @@ The input will start with an positive integer, giving the number of instances th
 1
 
 ### Sample Input and Output Description
-The sample input has two instances. The first instance has 5 elements and the second has 4. For eachinstance, your program should output the number of inversions on a separate line.
+The sample input has two instances. The first instance has 5 elements and the second has 4. For each instance, the program should output the number of inversions on a separate line.
 
 ### Time Complexity
 The time complexity of the optimal inversion counting problem for 1 array is **O(n * log(n))**.
@@ -65,7 +65,7 @@ Input should be read in from stdin. The first line will be the number of instanc
 7
 
 ### Sample Input and Output Description
-
+The sample input has two instances. The first instance has 2 arrays, each with 4 elements and the second has 5. The first instance's arrays are [1, 10, 8, 6] and [6, 2, 5, 1], and the second instance's arrays are [9, 21, 1, 5, 18] and [2, 4, 6, 10, 1]. For each instance, the program should output the number of inversions on a separate line.
 
 ### Time Complexity
 The time complexity of the optimal inversion counting problem for 2 arrays is **O(n * log(n))**.
