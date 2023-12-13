@@ -71,6 +71,7 @@ The sample input has two instances. The first instance has 2 arrays, each with 4
 The time complexity of the optimal inversion counting problem for 2 arrays is **O(n * log(n))**.
 
 ### Run the Code
+- Downloard the required files:
 Run the code file.
 
 ### Problem Constraints
