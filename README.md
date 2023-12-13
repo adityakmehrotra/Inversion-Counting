@@ -27,7 +27,7 @@ The time complexity of the optimal inversion counting problem for 1 array is **O
 ### Run the Code
 - Downloard the required files:
   - `inversion_counting.java`: Java file with the algorithm that counts the inversions in an array optimally in terms of time and space
-Run the code file.
+  - `Makefile`: Makefile to build the Java file (`inversion_counting.java`) through the compiler and run the algorithm in the Java file (`inversion_counting.java`)
 
 ## Inversion Counting (2 Arrays) Problem
 
