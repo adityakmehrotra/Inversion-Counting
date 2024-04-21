@@ -86,3 +86,6 @@ The time complexity of the optimal inversion counting problem for 2 arrays is **
 - For each point, its location x is a positive integer such that 1 ≤ x ≤ 106
 - No two points are placed at the same location on the top line, and no two points are placed at the same location on the bottom line.
 - Note that the results of some of the test cases may not fit in a 32-bit integer.
+
+### Last Updated
+12/13/2023
